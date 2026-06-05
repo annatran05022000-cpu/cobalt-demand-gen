@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Cobalt Demand Gen"
+theme = "custom"
+
+[params]
+  description = "Demand generation strategies for B2B: paid ads, events, webinars, and ABM campaigns."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
